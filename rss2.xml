@@ -8,8 +8,27 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>做自己爱做的事，爱自己在做的事！</description>
-    <pubDate>Tue, 03 Oct 2017 12:36:34 GMT</pubDate>
+    <pubDate>Sun, 08 Oct 2017 13:02:31 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>轻量级富文本编译器</title>
+      <link>https://www.tangjinxin.xyz/2017/10/08/%E8%BD%BB%E9%87%8F%E7%BA%A7%E5%AF%8C%E6%96%87%E6%9C%AC%E7%BC%96%E8%AF%91%E5%99%A8/</link>
+      <guid>https://www.tangjinxin.xyz/2017/10/08/%E8%BD%BB%E9%87%8F%E7%BA%A7%E5%AF%8C%E6%96%87%E6%9C%AC%E7%BC%96%E8%AF%91%E5%99%A8/</guid>
+      <pubDate>Sun, 08 Oct 2017 12:22:14 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;p&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;100&quot; height=&quot;86&quot; src=&quot;//music.163.com/outchain/player?type=2&amp;
+        
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100" height="86" src="//music.163.com/outchain/player?type=2&id=29732995&auto=1&height=66"></iframe><br>我们都知道富文本编译器是一个很大的东西。今天推荐一款轻量级的富文本编译器，且操作异常简单，引入一段js,解决所有 这酸爽，不说了 快看看<a href="http://www.wangeditor.com/" target="_blank" rel="external">官网</a>官网小伙伴们可以直接去看文档很简单。有基础的小伙伴可以选择直接看文档。比较基础</p><h2 id="第一步我们看到了"><a href="#第一步我们看到了" class="headerlink" title="第一步我们看到了"></a>第一步我们看到了</h2><p><img src="http://oxi8pj5na.bkt.clouddn.com/1.png" alt="第一步">  </p><h2 id="先可以看下demo-然后去github上面下载"><a href="#先可以看下demo-然后去github上面下载" class="headerlink" title="先可以看下demo 然后去github上面下载"></a>先可以看下demo 然后去github上面下载</h2><h2 id="我们下载完后其实只需要一个js就可以了其他的文件都可以不用"><a href="#我们下载完后其实只需要一个js就可以了其他的文件都可以不用" class="headerlink" title="我们下载完后其实只需要一个js就可以了其他的文件都可以不用"></a>我们下载完后其实只需要一个js就可以了其他的文件都可以不用</h2><p><img src="http://oxi8pj5na.bkt.clouddn.com/2.png" alt="第二步"> </p><h2 id="我这边就直接cdn了"><a href="#我这边就直接cdn了" class="headerlink" title="我这边就直接cdn了"></a>我这边就直接cdn了</h2><h2 id="非常简单。我们配置一下"><a href="#非常简单。我们配置一下" class="headerlink" title="非常简单。我们配置一下"></a>非常简单。我们配置一下</h2><p><img src="http://oxi8pj5na.bkt.clouddn.com/3.png" alt="第三步"> </p><h2 id="直接启用"><a href="#直接启用" class="headerlink" title="直接启用"></a>直接启用</h2><p><img src="http://oxi8pj5na.bkt.clouddn.com/4.png" alt="第四步"> </p><h2 id="直接就可以用了"><a href="#直接就可以用了" class="headerlink" title="直接就可以用了"></a>直接就可以用了</h2><h2 id="然后我们发现这个上传图片的这个没有本地上传"><a href="#然后我们发现这个上传图片的这个没有本地上传" class="headerlink" title="然后我们发现这个上传图片的这个没有本地上传"></a>然后我们发现这个上传图片的这个没有本地上传</h2><p><img src="http://oxi8pj5na.bkt.clouddn.com/5.png" alt="第五步"> </p><h2 id="配置后我们就有了本地上传图片后面的这个url就是我们上传的地址。"><a href="#配置后我们就有了本地上传图片后面的这个url就是我们上传的地址。" class="headerlink" title="配置后我们就有了本地上传图片后面的这个url就是我们上传的地址。"></a>配置后我们就有了本地上传图片后面的这个url就是我们上传的地址。</h2><p><img src="http://oxi8pj5na.bkt.clouddn.com/6.png" alt="第六步"> </p>]]></content:encoded>
+      
+      <comments>https://www.tangjinxin.xyz/2017/10/08/%E8%BD%BB%E9%87%8F%E7%BA%A7%E5%AF%8C%E6%96%87%E6%9C%AC%E7%BC%96%E8%AF%91%E5%99%A8/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>Hello World</title>
